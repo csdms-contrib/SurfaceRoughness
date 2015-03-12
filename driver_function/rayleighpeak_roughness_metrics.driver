@@ -1,0 +1,9 @@
+DataPath ../data/
+DEM_ID rayleighpeak
+N_Radii_1 5
+SurfaceFittingWindowRadius 1 2 3 4 5
+N_Radii_2 10
+NormalVariabilityRadius 1 2 3 4 5 6 7 8 9 10
+s1 0
+s2 0
+s3 1 
